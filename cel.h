@@ -6,18 +6,13 @@ Celula* cria_celula();
 Celula* busca_celula(Celula* cel,int v)
 //Insere um valor ao final da lista
 Celula* insere_celula(Celula* cel,int v);
-//Imprime essa porra
+//Imprime a lista
 void imprime_celula(Celula* cel);
 //Remove da lista
 Celula* remove_celula(Celula* cel, int v);
-//Testa se esse caralho está vazio
+//Testa se está vazio
 int testa_vazia(Celula* cel);
-//Libera o rego
+//Libera a celula
 void libera_celula(Celula* cel);
-//Insere esse lixo ordenado
+//Insere ordenando-os
 Celula* cel_insere_ordenado(Celula* cel, int v);
-
-//Teu pai corno!
-//Direitos direitivos do Trap
-//Qualquer copia desse lixo está autorizado
-//Seja (in)feliz com essa merda
