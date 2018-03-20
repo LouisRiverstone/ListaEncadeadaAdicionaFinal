@@ -12,7 +12,7 @@ Celula* cria_celula();<br>
 Celula* busca_celula(Celula* cel,int v);<br>
 <br>
 //Insere um valor ao final da lista<br>
-Celula* insere_celula(Celula* cel,int v);
+Celula* insere_celula(Celula* cel,int v);<br>
 <br>
 //Imprime a lista<br>
 void imprime_celula(Celula* cel);<br>
