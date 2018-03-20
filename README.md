@@ -1,5 +1,5 @@
 # Lista Encadeada que Adiciona no Final
-Uma lista encadeada que insere elementos no final da lista, feito em C
+Uma lista encadeada que insere elementos no final da lista, feito em C.<br>
 Livre caso queira adaptar ao seu uso.
 <br>
 //Estrutura cel->info<br>
