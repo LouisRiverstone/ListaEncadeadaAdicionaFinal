@@ -32,7 +32,7 @@ Celula* busca_celula(Celula* cel,int v){
           a = a->prox;
         }
     }
-    printf("NAO ACHOU ESSE LIXO DE %d",v);
+    printf("NAO ACHOU %d",v);
     return NULL;
 }
 
